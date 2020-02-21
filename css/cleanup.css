@@ -3,3 +3,7 @@
 div#wall .tag-1 {
   display: none;
 }
+
+div#wall div#tag-2 {
+  display: none;
+}
